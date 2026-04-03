@@ -4,36 +4,36 @@
   <img height="200" src="https://i.ibb.co/4nLPpJ23/Black-and-Yellow-Web-Developer-Linked-In-Banner.jpg"  />
 </div>
 
-<br clear="both">
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/devjotaemi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="18" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="21" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/jaoxzw_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="18" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="21" alt="instagram logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="48" height="18" alt="microsoft-outlook logo"  />
 </div>
 
+###
 
 <br clear="both">
 
 <h2 align="center">Hello There!👋</h2>
 
-
+###
 
 <br clear="both">
 
 <h4 align="center">I'm João Matheus.</h4>
 
-
+###
 
 <br clear="both">
 
 <h5 align="center">I'm a developer passionate about technology and problem-solving. <br>I like creating clean, efficient, and user-friendly applications.<br><br>I'm always challenging myself to learn more, improve my skills, and build projects that make a difference.</h5>
 
-
+###
 
 <br clear="both">
 
@@ -65,14 +65,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="29" alt="firebase logo"  />
 </div>
 
-
+###
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devjotaemi/devjotaemi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devjotaemi/devjotaemi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devjotaemi/devjotaemi/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="300" src="https://images.steamusercontent.com/ugc/10803836091039491/A3E3EA57AD72FBC940F601905B72A6F8A8621347/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
+</div>
 
-
+###
