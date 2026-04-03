@@ -4,8 +4,6 @@
   <img height="200" src="https://i.ibb.co/4nLPpJ23/Black-and-Yellow-Web-Developer-Linked-In-Banner.jpg"  />
 </div>
 
-###
-
 <br clear="both">
 
 <div align="center">
@@ -18,25 +16,24 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="48" height="18" alt="microsoft-outlook logo"  />
 </div>
 
-###
 
 <br clear="both">
 
 <h2 align="center">Hello There!👋</h2>
 
-###
+
 
 <br clear="both">
 
 <h4 align="center">I'm João Matheus.</h4>
 
-###
+
 
 <br clear="both">
 
 <h5 align="center">I'm a developer passionate about technology and problem-solving. <br>I like creating clean, efficient, and user-friendly applications.<br><br>I'm always challenging myself to learn more, improve my skills, and build projects that make a difference.</h5>
 
-###
+
 
 <br clear="both">
 
@@ -68,7 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="29" alt="firebase logo"  />
 </div>
 
-###
+
 
 <br clear="both">
 
@@ -78,4 +75,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/devjotaemi/devjotaemi/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
