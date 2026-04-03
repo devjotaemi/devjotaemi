@@ -21,15 +21,7 @@
 
 <h2 align="center">Hello There!👋</h2>
 
-###
-
-<br clear="both">
-
 <h4 align="center">I'm João Matheus.</h4>
-
-###
-
-<br clear="both">
 
 <h5 align="center">I'm a developer passionate about technology and problem-solving. <br>I like creating clean, efficient, and user-friendly applications.<br><br>I'm always challenging myself to learn more, improve my skills, and build projects that make a difference.</h5>
 
@@ -68,9 +60,5 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img height="300" src="https://images.steamusercontent.com/ugc/10803836091039491/A3E3EA57AD72FBC940F601905B72A6F8A8621347/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
-</div>
 
 ###
